@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="13" fill="#f3f0e8"/>
+  <rect x="9" y="7" width="46" height="50" rx="8" fill="#fffefa" stroke="#d7d4ca" stroke-width="2"/>
+  <text x="32" y="43" text-anchor="middle" font-family="serif" font-size="31" fill="#37453e">東</text>
+</svg>
